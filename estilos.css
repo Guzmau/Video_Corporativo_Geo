@@ -10,8 +10,8 @@ body {
 }
 
 video {
-  max-width: 100%;
-  max-height: 100%;
+  width: 531px;
+  height: 1096px;
   border: 10px solid blue;
   border-radius: 5px;
 }
